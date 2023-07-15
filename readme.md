@@ -80,7 +80,7 @@ After opening the accounts dropdown, click on `Import account`
 
 In the first server, you will be provided with 20 demo accounts, copy any of the demo accounts `private key` and click on import. 
 
-Now you have a demo account with 10000 ETH <Not original ETH> to use.
+Now you have a demo account with 10000 demo ETH <Not original ETH> to use.
 ## Features
 
 - Light/dark mode toggle
